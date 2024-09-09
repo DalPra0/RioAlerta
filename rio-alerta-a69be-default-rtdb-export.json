@@ -1,0 +1,114 @@
+{
+  "firebase": {
+    "locais": {
+      "local1": "PR, Curitiba. PUCPR, Rio Belém",
+      "local2": "PR, Curitiba. Parque São Lourenço, Rio Belém"
+    },
+    "local1": {
+      "atualizacao": {
+        "data": "09/07/2023",
+        "horario": "21:37",
+        "nivel_rio": "5.3",
+        "nome": "PUCPR, Rio Belém",
+        "risco": "Alto",
+        "status": "Nível Critico"
+      },
+      "historico": {
+        "2021": {
+          "enchentes": 1,
+          "meses": {
+            "abr": 6.1,
+            "ago": 5.4,
+            "dez": 3.3,
+            "fev": 6,
+            "jan": 4,
+            "jul": 5.5,
+            "jun": 5.1,
+            "mai": 2.2,
+            "mar": 2,
+            "nov": 1.7,
+            "out": 7.2,
+            "set": 6.1
+          },
+          "nivel-maximo": 5.1,
+          "nivel-medio": 4,
+          "nivel-minimo": 3.3
+        },
+        "2022": {
+          "enchentes": 0,
+          "meses": {
+            "abr": 4.6,
+            "ago": 5.4,
+            "dez": 4.7,
+            "fev": 6,
+            "jan": 4,
+            "jul": 2.3,
+            "jun": 5.1,
+            "mai": 3.3,
+            "mar": 2,
+            "nov": 3.3,
+            "out": 1.2,
+            "set": 6.1
+          },
+          "nivel-maximo": 4.6,
+          "nivel-medio": 3.2,
+          "nivel-minimo": 2.1
+        }
+      },
+      "nome": "PR, Curitiba. PUCPR, Rio Belém"
+    },
+    "local2": {
+      "atualizacao": {
+        "data": "09/07/2023",
+        "horario": "21:37",
+        "nivel_rio": "5.3",
+        "nome": "PUCPR, Rio Belém",
+        "risco": "Alto",
+        "status": "Nível Critico"
+      },
+      "historico": {
+        "2021": {
+          "enchentes": 1,
+          "meses": {
+            "abr": 6.1,
+            "ago": 5.4,
+            "dez": 3.3,
+            "fev": 6,
+            "jan": 4,
+            "jul": 5.5,
+            "jun": 5.1,
+            "mai": 2.2,
+            "mar": 2,
+            "nov": 1.7,
+            "out": 7.2,
+            "set": 6.1
+          },
+          "nivel-maximo": 5.1,
+          "nivel-medio": 4,
+          "nivel-minimo": 3.3
+        },
+        "2022": {
+          "enchentes": 0,
+          "meses": {
+            "abr": 4.6,
+            "ago": 5.4,
+            "dez": 4.7,
+            "fev": 6,
+            "jan": 4,
+            "jul": 2.3,
+            "jun": 5.1,
+            "mai": 3.3,
+            "mar": 2,
+            "nov": 3.3,
+            "out": 1.2,
+            "set": 6.1
+          },
+          "nivel-maximo": 4.6,
+          "nivel-medio": 3.2,
+          "nivel-minimo": 2.1
+        }
+      },
+      "nome": "PR, Curitiba. PUCPR, Rio Belém"
+    }
+  }
+}

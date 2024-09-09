@@ -1,0 +1,114 @@
+{
+  "firebase": {
+    "locais": {
+      "local1": "PR, Curitiba. PUCPR, Rio Belém",
+      "local2": "PR, Curitiba. Parque São Lourenço, Rio Belém"
+    },
+    "local1": {
+      "atualizacao": {
+        "data": "09/07/2023",
+        "horario": "21:37",
+        "nivel_rio": "5.3",
+        "nome": "PUCPR, Rio Belém",
+        "risco": "Baixo",
+        "status": "Nível Normal"
+      },
+      "historico": {
+        "2021": {
+          "enchentes": 1,
+          "meses": [
+            6.1,
+            6.1,
+            5.4,
+            3.3,
+            6,
+            4,
+            5.5,
+            5.1,
+            2.2,
+            2,
+            1.7,
+            7.2
+          ],
+          "nivel-maximo": 5.1,
+          "nivel-medio": 4,
+          "nivel-minimo": 3.3
+        },
+        "2022": {
+          "enchentes": 0,
+          "meses": [
+            6.1,
+            4.6,
+            5.4,
+            4.7,
+            6,
+            4,
+            2.3,
+            5.1,
+            3.3,
+            2,
+            3.3,
+            1.2
+          ],
+          "nivel-maximo": 4.6,
+          "nivel-medio": 3.2,
+          "nivel-minimo": 2.1
+        }
+      },
+      "nome": "PR, Curitiba. PUCPR, Rio Belém"
+    },
+    "localR": {
+      "atualizacao": {
+        "data": "09/07/2023",
+        "horario": "21:37",
+        "nivel_rio": "5.3",
+        "nome": "Parque São Lourenço, Rio Belém",
+        "risco": "Alto",
+        "status": "Nível Critico"
+      },
+      "historico": {
+        "2021": {
+          "enchentes": 1,
+          "meses": [
+            7.4,
+            6.1,
+            5.4,
+            3.3,
+            6,
+            4,
+            5.5,
+            5.1,
+            2.2,
+            2,
+            1.7,
+            7.2
+          ],
+          "nivel-maximo": 5.1,
+          "nivel-medio": 4,
+          "nivel-minimo": 3.3
+        },
+        "2022": {
+          "enchentes": 0,
+          "meses": [
+            5.3,
+            4.6,
+            5.4,
+            4.7,
+            6,
+            4,
+            2.3,
+            5.1,
+            3.3,
+            2,
+            3.3,
+            1.2
+          ],
+          "nivel-maximo": 4.6,
+          "nivel-medio": 3.2,
+          "nivel-minimo": 2.1
+        }
+      },
+      "nome": "PR, Curitiba. Parque São Lourenço, Rio Belém"
+    }
+  }
+}
